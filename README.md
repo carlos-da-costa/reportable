@@ -1,7 +1,7 @@
 # Reportable
 A simplistic report engine based for Web2py, based totaly on HTML table and Rows objects. 
 
-Add it to your app modules folder and write something like this:
+Add it to your app modules folder and write something like this in your controller:
 
 ```
   def teste():
